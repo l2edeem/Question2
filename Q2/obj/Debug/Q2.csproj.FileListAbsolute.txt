@@ -5,3 +5,10 @@ C:\Users\ougri\source\repos\Q2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
 C:\Users\ougri\source\repos\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
 C:\Users\ougri\source\repos\Q2\Q2\obj\Debug\Q2.exe
 C:\Users\ougri\source\repos\Q2\Q2\obj\Debug\Q2.pdb
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\bin\Debug\Q2.exe.config
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\bin\Debug\Q2.exe
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\bin\Debug\Q2.pdb
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\obj\Debug\Q2.exe
+C:\Users\ougri\Desktop\New folder (2)\Question2\Q2\obj\Debug\Q2.pdb

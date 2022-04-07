@@ -10,7 +10,7 @@ namespace Q2
     {
         static void Main(string[] args)
         {
-            double thbConvert = 0;
+            double thbConvert = 0.00;
             double thb;
             int chktypeErr = 0;
             Convert convrt = new Convert();
